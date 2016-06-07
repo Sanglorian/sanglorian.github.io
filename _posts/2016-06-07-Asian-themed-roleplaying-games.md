@@ -1,4 +1,8 @@
-# Asian-themed Roleplaying Games
+---
+layout: post
+title: Asian-themed roleplaying games
+---
+
 Some of the below have very broad influences, some of which are Asian (like Exalted). Others do not have campaign settings (Wushu, Redbox Hack) but seemed worth mentioning anyway. Others are in the Asia-Pacific, but not Asia (Terror Australis, Mythos of the Maori): 
 
 * Exalted (non-D&D)
