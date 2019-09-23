@@ -34,7 +34,7 @@ Release 2
 * http://tuxemon.referata.com (2016- )
 
 # Blogs
-* http://livinglibre1.wordpress.com (2011- )
+* http://livinglibre1.wordpress.com (2011-2018)
 
 # Art
 * http://sanglorian.deviantart.com
@@ -81,6 +81,12 @@ A _Searchers of the Unknown/Dungeon World_ derived game set in twin cities. CC 
 * [Errata, PDF](/downloads/Down%20and%20Out%20in%20Gadding-Thoth/Errata%20for%20Down%20%26%20Out%20in%20Gadding-Thoth.pdf)
 * [Errata, ODT](/downloads/Down%20and%20Out%20in%20Gadding-Thoth/Errata%20for%20Down%20%26%20Out%20in%20Gadding-Thoth.odt)
 
+## Panic in the Long Grass (2019)
+A _Panic at the Dojo_ starter for the Tuxemon setting. CC BY-SA. PDF. 
+
+* [Rules PDF](/downloads/Panic%20in%20the%20Long%20Grass/Panic%20in%20the%20Long%20Grass.pdf)
+* [Cards PDF](/downloads/Panic%20in%20the%20Long%20Grass/Cards.pdf)
+
 ## _Dungeon World and World of Dungeons_
 
 ### Sanglorian's Dungeon World Stuff (2012) 
@@ -104,7 +110,7 @@ The zine I edited. CC BY-SA or CC BY. PDF and ODT.
 * [ODT](/downloads/Dungeon%20World%20and%20World%20of%20Dungeons/Grim%20Portents/Grim%20Portents%201%20-%20Final.odt)
 
 #### Issue 2
-???
+* [PDF](/downloads/Dungeon%20World%20and%20World%20of%20Dungeons/Grim%20Portents/grim-portents-2-final-release.pdf)
 
 ## **Hackbirds**
 
